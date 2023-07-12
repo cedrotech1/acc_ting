@@ -247,7 +247,7 @@ include './includes/aside.php';
                             while($rowy = mysqli_fetch_array($resulty)) {
                               $eq= $rowy["0"];
                             }
-                            $ta=$e+$li+$eq;
+                            $ta=$li+$eq;
 
 	
                     $sql = "SELECT name,balance,type FROM `ledger`,`accounts` WHERE accounts.aid=ledger.aid";

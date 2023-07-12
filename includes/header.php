@@ -18,13 +18,7 @@
     </div><!-- End Search Bar -->
 
     <nav class="header-nav ms-auto">
-   
 
-
-         
-
-     
-       
           <a class="nav-link nav-profile d-flex align-items-center pe-0" href="#" data-bs-toggle="dropdown">
             <img src="assets/img/p.jpg" alt="Profile" class="rounded-circle">
             <span class="d-none d-md-block dropdown-toggle ps-2">Mr Admin</span>
